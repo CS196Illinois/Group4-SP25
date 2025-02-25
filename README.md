@@ -1,6 +1,6 @@
 # Group 4
 
-Project Name: PROJECT_NAME
+Project Name: MnN
 
 [MVP Link](https://docs.google.com/document/d/1JCatkUAtKd4dQ_uJix2-xI8hYu5cD6peKlRTH16aXmM/edit?tab=t.0)
 
