@@ -6,7 +6,7 @@ Project Name: PROJECT_NAME
 
 Team Members: 
 - Mihir (mihirv3)
-- Nikitha (
+- Nikitha (ns76)
 
 Project Manager: 
 - Anujay Surana (anujays2)
