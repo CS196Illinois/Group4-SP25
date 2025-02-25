@@ -2,7 +2,7 @@
 
 Project Name: PROJECT_NAME
 
-[MVP Link](https://docs.google.com/document/d/1xFI9DDdO5HZAcu36Y6NL-RTDry5E3WHkfy-ZEWuqbXM/edit?usp=sharing)
+[MVP Link](https://docs.google.com/document/d/1JCatkUAtKd4dQ_uJix2-xI8hYu5cD6peKlRTH16aXmM/edit?tab=t.0)
 
 Team Members: 
 - Mihir (mihirv3)
